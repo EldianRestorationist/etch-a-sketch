@@ -1,0 +1,1 @@
+This project is called Etch-A-Sketch. Starting with a 16x16 div grid, when the user hovers over each div it will change color. This will give a box style drawing effect, much like an etch-a-sketch. There will also be an option to change the color of the "drawing" and also the size of the grid boxes, to make more detailed "drawings". Simple but fun project. 
